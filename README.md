@@ -4,6 +4,9 @@ A modern, responsive frontend website designed for AWS Student
 Community Day, focused on student learning, collaboration,
 community engagement, and events.
 
+## Live Demo
+https://aws-student-community-day-two.vercel.app/g
+
 ## Features
 
 - Responsive React-based interface
