@@ -3229,3 +3229,41 @@ footer > span {
   color: var(--navy);
 }
 
+/* MOBILE SCHEDULE FIX */
+@media (max-width: 768px) {
+  .schedule-section {
+    padding: 65px 6%;
+  }
+
+  .schedule-heading {
+    display: block;
+    margin-bottom: 35px;
+  }
+
+  .schedule-heading p {
+    margin-top: 20px;
+  }
+
+  .schedule-item {
+    grid-template-columns: 1fr auto;
+    gap: 15px;
+    padding: 25px 0;
+  }
+
+  .schedule-time {
+    grid-column: 1;
+  }
+
+  .schedule-icon {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  .schedule-content {
+    grid-column: 1 / -1;
+  }
+
+  .schedule-index {
+    display: none;
+  }
+}
