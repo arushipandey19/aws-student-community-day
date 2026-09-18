@@ -5,7 +5,7 @@ Community Day, focused on student learning, collaboration,
 community engagement, and events.
 
 ## Live Demo
-https://aws-student-community-day-two.vercel.app/g
+https://aws-student-community-day-two.vercel.app/
 
 ## Features
 
